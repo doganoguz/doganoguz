@@ -6,8 +6,8 @@
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Doğan Oğuz Spotify Playing" width="350" />](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB?si=6mZmCqy4QbKCWODQowiwbg)
 
+<iframe src="https://open.spotify.com/embed/track/3xgK660fsZH7ZDcOMfIdfB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ### Connect with me:
 
 [<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
@@ -24,7 +24,6 @@
 <img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
-<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
