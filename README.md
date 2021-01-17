@@ -1,16 +1,68 @@
-### Hi there 👋
 
-<!--
-**doganoguz/doganoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Dogan Oguz 👋
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686?color=a&label=gokhandogru.net&logo=f&logoColor=d&style=for-the-badge)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
+<img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
+<img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
+<img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Doğan Oğuz Spotify Playing" width="350" />](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB?si=6mZmCqy4QbKCWODQowiwbg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="doganoguz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dogan.ouz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+<img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Java" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />  
+
+![](https://komarev.com/ghpvc/?username=dgokhan&style=flat-square)
+
+--- 
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgokhan&show_icons=true&hide_border=true" />
+
+
+<details>
+  <summary>🔥  Google Play Projects</summary>
+  
+<!--START_SECTION:activity-->
+🌍 [Google Play Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+ 
+Popular Projects. 💯
+1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
+2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
+3. 🇹🇷 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
+
+<!--END_SECTION:activity-->
+ 
+</details>
+
+[website]: https://doganoguz.com/
+[linkedin]: https://www.linkedin.com/in/do%C4%9Fan-o%C4%9Fuz-4b3970118/
+[instagram]: https://www.instagram.com/dogan.ouz/
+[twitter]: https://twitter.com/doganouz 
+
