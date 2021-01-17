@@ -54,7 +54,7 @@
 Popular Projects. 💯
 1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
 2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
-3. 🇹🇷 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
+3. 🔎 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
 
 <!--END_SECTION:activity-->
  
