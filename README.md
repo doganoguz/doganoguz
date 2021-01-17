@@ -6,8 +6,8 @@
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
 ### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Doğan Oğuz Spotify Playing" width="350" />](https://open.spotify.com/embed/track/3xgK660fsZH7ZDcOMfIdfB)
 
-<iframe src="https://open.spotify.com/embed/track/3xgK660fsZH7ZDcOMfIdfB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ### Connect with me:
 
 [<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
