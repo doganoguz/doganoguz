@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Dogan Oguz 👋
 
-[![Website](https://i.hizliresim.com/dKUkOW.png)](https://doganoguz.com/) <img width="19px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
+[![Website](https://i.hizliresim.com/dKUkOW.png)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
