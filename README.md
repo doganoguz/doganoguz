@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Dogan Oguz 👋
 
-[![Website](https://doganoguz.com/img/avatar.png)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
+[![Website](https://doganoguz.com/img/logooo.png)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
@@ -17,7 +17,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Android Studio" width="26px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://himesegitim.com/files/urunler/android-studio-egitimi_1586210759.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
