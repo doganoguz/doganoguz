@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Dogan Oguz 👋
 
-[![Website](https://doganoguz.com/)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
+[![Website](https://doganoguz.com/img/avatar.png)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
@@ -43,7 +43,7 @@
 
 --- 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgokhan&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=doganoguz&show_icons=true&hide_border=true" />
 
 
 <details>
