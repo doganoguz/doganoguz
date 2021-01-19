@@ -1,5 +1,5 @@
 
-### Hi there, I'm Dogan Oguz https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### Hi there, I'm Dogan Oguz <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
 [![Website](https://i.hizliresim.com/ndsPZI.png)](https://doganoguz.com/) <img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
