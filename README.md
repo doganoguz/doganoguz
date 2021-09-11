@@ -6,7 +6,7 @@
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Doğan Oğuz Spotify Playing" width="350" />](https://open.spotify.com/embed/track/3xgK660fsZH7ZDcOMfIdfB)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
