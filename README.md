@@ -6,11 +6,14 @@
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
 <img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
 <img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
+
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
-### Connect with me:
 
+🥳 Community Organizer - Google Developer Groups
+
+### Connect with me:
 [<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="doganoguz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dogan.ouz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
