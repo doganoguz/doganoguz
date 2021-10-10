@@ -11,7 +11,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
 
-🥳 Community Organizer - Google Developer Groups
+🥳 Community Organizer - Google Developer Groups 
+<br>
 🎤 Public speaker about Android and Flutter 
 
 ### Connect with me:
