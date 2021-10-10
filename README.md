@@ -48,8 +48,6 @@
 
 --- 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=doganoguz&show_icons=true&hide_border=true" />
-
 
 <details>
   <summary>🔥  Google Play Projects</summary>
