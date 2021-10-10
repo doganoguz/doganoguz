@@ -14,6 +14,21 @@
 🥳 Community Organizer - Google Developer Groups 
 <br>
 🎤 Public speaker about Android and Flutter 
+<br>
+<details>
+  <summary>🔥  Google Play Projects</summary>
+  
+<!--START_SECTION:activity-->
+🌍 [Google Play Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+ 
+Popular Projects. 💯
+1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
+2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
+3. 🔎 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
+
+<!--END_SECTION:activity-->
+ 
+</details>
 
 ### Connect with me:
 [<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
@@ -49,20 +64,7 @@
 --- 
 
 
-<details>
-  <summary>🔥  Google Play Projects</summary>
-  
-<!--START_SECTION:activity-->
-🌍 [Google Play Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
- 
-Popular Projects. 💯
-1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
-2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
-3. 🔎 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
 
-<!--END_SECTION:activity-->
- 
-</details>
 
 [website]: https://doganoguz.com/
 [linkedin]: https://www.linkedin.com/in/do%C4%9Fan-o%C4%9Fuz-4b3970118/
