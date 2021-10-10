@@ -59,12 +59,6 @@ Popular Projects. 💯
 [<img align="left" alt="dogan.ouz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-![](https://komarev.com/ghpvc/?username=doganoguz&style=flat-square)
-
---- 
-
-
-
 
 [website]: https://doganoguz.com/
 [linkedin]: https://www.linkedin.com/in/do%C4%9Fan-o%C4%9Fuz-4b3970118/
