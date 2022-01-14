@@ -19,7 +19,7 @@
   <summary>🔥  Google Play Projects</summary>
   
 <!--START_SECTION:activity-->
-🌍 [Google Play Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+🌍 [Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
  
 Popular Projects. 💯
 1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
