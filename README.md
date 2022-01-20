@@ -1,11 +1,8 @@
 
 ### Hi there, I'm Dogan Oguz <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
-[![Website](https://i.hizliresim.com/ndsPZI.png)](https://doganoguz.com/) 
-<img width="29px" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_logo_2019.png" />
-<img width="29px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" /> 
-<img width="29px" src="https://img.icons8.com/color/452/firebase.png" />
-<img width="29px" src="https://cdn.worldvectorlogo.com/logos/google-admob.svg" />
+
+<img src="https://i.pinimg.com/originals/84/9d/08/849d08476fdbb7a232c72664bf887584.gif" />
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
