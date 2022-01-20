@@ -2,7 +2,7 @@
 ### Hi there, I'm Dogan <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
 
-<img src="https://i.pinimg.com/originals/84/9d/08/849d08476fdbb7a232c72664bf887584.gif" />
+<img src="https://c.tenor.com/ZgRarb9uQi0AAAAC/bugs-bunny-strong.gif" />
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
