@@ -1,10 +1,10 @@
 
 ### Hi there, I'm Dogan <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
-
+<br>
+🚀 [Website](https://doganoguz.dev/)
 
 <img  width="450px" heigth="450px" src="https://c.tenor.com/ZgRarb9uQi0AAAAC/bugs-bunny-strong.gif" />
-<br>
-🚀 [Website](https://doganoguz.dev/) 
+
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
 
