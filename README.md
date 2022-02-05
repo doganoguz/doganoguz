@@ -1,7 +1,5 @@
 
 ### Hi there, I'm Dogan <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
-<br>
-🚀 [!Website](https://doganoguz.dev/)
 
 <img  width="450px" heigth="450px" src="https://c.tenor.com/ZgRarb9uQi0AAAAC/bugs-bunny-strong.gif" />
 
