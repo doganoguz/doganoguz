@@ -58,7 +58,7 @@ Popular Projects. 💯
 
 <br />
 
-[website]: https://doganoguz.com/
+[website]: https://doganoguz.dev/
 [linkedin]: https://www.linkedin.com/in/do%C4%9Fan-o%C4%9Fuz-4b3970118/
 [instagram]: https://www.instagram.com/dogan.ouz/
 [twitter]: https://twitter.com/doganouz 
