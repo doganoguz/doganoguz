@@ -23,8 +23,7 @@ Popular Projects. 💯
 <!--END_SECTION:activity-->
  
 </details>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=androiddeveloper&cover_image=true&theme=compact)]]
 ### Languages and Tools:
 
 
