@@ -23,7 +23,7 @@ Popular Projects. 💯
 <!--END_SECTION:activity-->
  
 </details>
-  <iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&redirect=true)
 
 ### Languages and Tools:
 
