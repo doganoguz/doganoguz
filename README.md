@@ -4,12 +4,14 @@
 <img  width="450px" heigth="450px" src="https://doganoguz.dev/app.gif" />
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+🥳 Community Organizer - Google Developer Groups
 
-🥳 Community Organizer - Google Developer Groups 
 <br>
 🎤 Public speaker about Android and Flutter 
 <br>
+
 <details>
   <summary>🔥  Google Play Projects</summary>
 
