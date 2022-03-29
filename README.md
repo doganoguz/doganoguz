@@ -11,7 +11,7 @@
 <br>
 <details>
   <summary>🔥  Google Play Projects</summary>
-  <iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <!--START_SECTION:activity-->
 🌍 [Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
  
@@ -23,7 +23,7 @@ Popular Projects. 💯
 <!--END_SECTION:activity-->
  
 </details>
-
+  <iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Languages and Tools:
 
