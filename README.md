@@ -1,5 +1,5 @@
 
-### Hi there, I'm Dogan <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
+### Hi there, I'm Dogan <img width="6px" heigth="6px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
 <img  width="45px" heigth="45px" src="https://doganoguz.dev/app.gif" />
 
