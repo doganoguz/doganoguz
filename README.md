@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Dogan <img width="29px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
-<img  width="450px" heigth="450px" src="https://doganoguz.dev/app.gif" />
+<img  width="45px" heigth="45px" src="https://doganoguz.dev/app.gif" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
