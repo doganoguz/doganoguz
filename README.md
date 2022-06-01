@@ -1,5 +1,4 @@
 
-### Hi there, I'm Dogan <img width="10px" heigth="10px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 
 <img  width="45px" heigth="45px" src="https://doganoguz.dev/app.gif" />
 
