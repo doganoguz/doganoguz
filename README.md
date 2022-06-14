@@ -2,13 +2,10 @@
 
 <img  width="45px" heigth="45px" src="https://dogan.dev/app.gif" />
 
-
-
-
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-🥳 Community Organizer - Google Developer Groups<br>
+🥳 Community Organizer - Google Developer Groups
+<br>
 🎤 Public speaker about Android and Flutter 
 
 
@@ -28,6 +25,7 @@ Popular Projects. 💯
 </details>
 
 ### 🛠 Tech Stack
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
