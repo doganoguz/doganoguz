@@ -35,14 +35,9 @@ Popular Projects. 💯
 <br />
  
 ### Connect with me:
-[<img align="left" alt="doganoguzCOM" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="dogan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
 [<img align="left" alt="doganoguz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dogan.ouz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
-[website]: https://dogan.dev/
-[linkedin]: https://www.linkedin.com/in/do%C4%9Fan-o%C4%9Fuz-4b3970118/
-[instagram]: https://www.instagram.com/dogan.ouz/
-[twitter]: https://twitter.com/doganouz 
 
