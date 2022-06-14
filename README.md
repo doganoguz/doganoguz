@@ -38,8 +38,12 @@ Popular Projects. 💯
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
 
-###  Languages and Tools
-![Raspberry Pi](https://github-readme-stats.vercel.app/api?username={doganoguz}&theme=blue-green)&nbsp;
+### 📊 GitHub Analytics
 
-
+<p align="center">
+<a href="https://github.com/doganoguz">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=doganoguz&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="doganoguz"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doganoguz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="doganoguz"/>
+</a>
+</p>
 
