@@ -13,7 +13,7 @@
   <summary>💚 Google Play</summary>
 
 <!--START_SECTION:activity-->
-🌍 [Developer Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+➡️ [Developer Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
  
 Popular Projects. 💯
 1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
@@ -34,14 +34,6 @@ Popular Projects. 💯
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)&nbsp;
 
-### 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/doganoguz">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=doganoguz&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="doganoguz"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doganoguz&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="doganoguz"/>
-</a>
-</p>
 
 ### 🚀 Languages and Tools:
 
