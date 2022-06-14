@@ -10,17 +10,15 @@
 
 
 <details>
-  <summary>🔥  Google Play Projects</summary>
+  <summary>💚 Google Play</summary>
 
 <!--START_SECTION:activity-->
-🌍 [Dev. Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+🌍 [Developer Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
  
 Popular Projects. 💯
 1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
 2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
 3. 🔎 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
-
-<!--END_SECTION:activity-->
  
 </details>
 
@@ -31,6 +29,7 @@ Popular Projects. 💯
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
 
