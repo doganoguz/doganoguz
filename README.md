@@ -1,6 +1,6 @@
 
 
-<img  width="45px" heigth="45px" src="https://dogan.dev/app.gif" />
+<img  src="https://dogan.dev/app.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
