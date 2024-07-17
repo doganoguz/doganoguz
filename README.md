@@ -10,16 +10,16 @@
 
 
 <details>
-  <summary> 💚 Google Play</summary>
+  <summary> 🍏 App Store</summary>
 
 <!--START_SECTION:activity-->
-➡️ [Developer Profile](https://play.google.com/store/apps/dev?id=8686341603030191209) 
+➡️ [IOS Developer Profile](https://apps.apple.com/us/developer/dogan-oguz/id1724581965) 
  
 Popular Projects. 💯
-1. ⚡ ️[Fenomen Wallpaper](https://play.google.com/store/apps/details?id=com.doganoguz.tictocwallpaper)
-2. ❤️ [iHeart](https://play.google.com/store/apps/details?id=com.doganoguz.iheart) 
-3. 🔎 [Yerli Malı Sorgula](https://play.google.com/store/apps/details?id=com.doganoguz.yerlimali) 
- 
+1. 🪄 ️[Leviosa: Ritüel & Meditasyon App](https://apps.apple.com/us/app/leviosa-rit%C3%BCel-meditasyon/id6475635598?platform=iphone)
+2. ⚡️ ️[Upper Crypto Signal App](https://apps.apple.com/us/app/upper-signal-finder/id1640064525)
+  
+
 </details>
 
 ### 🛠 Tech Stack
