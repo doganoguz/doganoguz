@@ -2,8 +2,6 @@
 
 <img  src="https://i.pinimg.com/originals/99/a1/26/99a1262052e6ac9dee1989e588fd174a.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=androiddeveloper&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 🥳 Community Organizer - Google Developer Groups
 <br>
 🎤 Public speaker about Android and Flutter 
