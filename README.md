@@ -7,19 +7,6 @@
 🎤 Public speaker about Android and Flutter 
 
 
-<details>
-  <summary> 🍏 App Store</summary>
-
-<!--START_SECTION:activity-->
-➡️ [IOS Developer Profile](https://apps.apple.com/us/developer/dogan-oguz/id1724581965) 
- 
-Popular Projects. 💯
-1. 🪄 ️[Leviosa: Ritüel & Meditasyon App](https://apps.apple.com/us/app/leviosa-rit%C3%BCel-meditasyon/id6475635598?platform=iphone)
-2. ⚡️ ️[Upper Crypto Signal App](https://apps.apple.com/us/app/upper-signal-finder/id1640064525)
-  
-
-</details>
-
 ### 🛠 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
