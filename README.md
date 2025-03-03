@@ -2,9 +2,11 @@
 
 <img  src="https://i.pinimg.com/originals/99/a1/26/99a1262052e6ac9dee1989e588fd174a.gif" />
 
-🥳 Community Organizer - Google Developer Groups
+🚀 A developer striving to make a difference for humanity. 🌍💡
 <br>
-🎤 Public speaker about Android and Flutter 
+🥳 Community Organizer - Google Developer Groups
+
+
 
 
 ### 🛠 Tech Stack
