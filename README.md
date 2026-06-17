@@ -1,6 +1,6 @@
 
 
-<img  src="https://i.pinimg.com/originals/99/a1/26/99a1262052e6ac9dee1989e588fd174a.gif" />
+<img  src="[https://i.pinimg.com/originals/99/a1/26/99a1262052e6ac9dee1989e588fd174a.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHo4eXJjdGkybHdoZmN2b2dlc2VxZXgxMzc1dGxqd2h5MGdqOTQyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WsJzXF8M8tl6w/giphy.gif)" />
 
 🚀 A developer striving to make a difference for humanity. 🌍💡
 <br>
